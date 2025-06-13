@@ -70,3 +70,5 @@ export async function getStaticProps() {
 }
 
 export default Users;
+
+["import PostCard from", "import { PostProps }", "https://jsonplaceholder.typicode.com/posts"]
